@@ -1,2 +1,3 @@
 # JHU-DataScienceCourse
-Going through JHU-Data Science Courses
+## Going through JHU-Data Science Courses
+### WoHoo!
